@@ -1,0 +1,1 @@
+Esta es una prueba para mirar que la aplicabilidad del rm HEAD
